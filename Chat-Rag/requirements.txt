@@ -1,0 +1,5 @@
+faiss-cpu
+sentence-transformers
+PyPDF2
+streamlit
+azure-cli
